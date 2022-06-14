@@ -10,6 +10,9 @@ input{
     height: 29px;
     
 }
+.u{
+place-content: center;
+}
 form{
     background-color: purple;
     margin-top: 2%;
