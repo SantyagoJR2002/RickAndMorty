@@ -1,0 +1,35 @@
+.description{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+article{
+    background-image: linear-gradient(90deg,red,blue, rgb(119, 6, 119));
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 10%;
+    margin-right: 2%;
+    display:flex;
+    flex-wrap: wrap;
+    width: 77%;
+}
+
+img{
+    height: 16vh;
+    border-radius: 50%;
+}
+p{
+    margin-left: 30px;
+}
+h2{
+    margin-left: 12px;
+}
+.separator{
+    display: flex;
+}
+span{
+    display: flex;
+    flex-direction: column;
+}

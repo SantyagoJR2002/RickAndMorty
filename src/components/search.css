@@ -1,0 +1,21 @@
+button{
+    border-radius: 12px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    background-color: aqua;
+    
+}
+input{
+    border-radius: 12px;
+    height: 29px;
+    
+}
+form{
+    background-color: purple;
+    margin-top: 2%;
+    height: 38px;
+    width: 280px;
+    margin-left: 40%;
+    border-radius: 12px;
+    margin-bottom: 2%;
+}
