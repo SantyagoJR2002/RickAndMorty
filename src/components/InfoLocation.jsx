@@ -6,7 +6,7 @@ return(
         <h2>{Location?.name}</h2>
         <img src={Location?.image}/>
         <ul>
-            <li className="description"><span>Type:</span> {Location?.type}</li>
+            <li className="description"><span>Tipe:</span> {Location?.type}</li>
             <li className="description"><span>Dimension:</span> {Location?.dimension}</li>
             <li className="description"><span>Population:</span> {Location?.residents.length}  </li>
             
